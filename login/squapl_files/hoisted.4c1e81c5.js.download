@@ -1,0 +1,1 @@
+import"./hoisted.10ab386a.js";document.querySelector("#copyright").textContent=new Date().getFullYear().toString();
